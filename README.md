@@ -7,7 +7,7 @@
 ## Install
 
 ```
-asdf plugin-add dotnet-core https://github.com/emersonsoares/asdf-dotnet-core.git
+asdf plugin add dotnet-core https://github.com/emersonsoares/asdf-dotnet-core.git
 ```
 
 ## Use
